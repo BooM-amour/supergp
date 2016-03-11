@@ -1,22 +1,13 @@
---------------------------------------------------
---      ____  ____ _____                        --
---     |    \|  _ )_   _|___ ____   __  __      --
---     | |_  )  _ \ | |/ ·__|  _ \_|  \/  |     --
---     |____/|____/ |_|\____/\_____|_/\/\_|     --
---                                              --
---------------------------------------------------
---                                              --
---       Developers:  @vvViRuSss      --
---     Support: @vvViRuSss     --
---                                              --
---------------------------------------------------
+DeVeLoPeRs [@I_CrAzY_BoY  @Sudo_Crazy]
+SuPpOrTs   [@I_CrAzY_BoY  @Sudo_Crazy]
+
+SUPERGROUP CRAZY BOT
 
 do
 
 function run(msg, matches)
-  return 'DBTeam Bot V1 Supergroups\nAn advanced Administration bot based on yagop/telegram-bot \n\nhttp://github.com/Josepdal/DBTeam\n\nDevelopers :\n@vvViRuSss\n@brunitim\n\nSupport :\n@vvViRuSss
-  --[[ Checkout https://github.com/BooM-amour/supergp
-  --GNU GPL v2 license.]]
+  return 'TELE_CraZy Bot Supergroups\nAn advanced Administration bot based on yagop/TeleCRAZY-bot \n\nDevelopers :\n@I_CrAzY_BoY \n@Sudo_Crazy\n\nSupport :\n@I_CrAzY_BoY\n@Sudo_Crazy\n\nCHANNEL\n\nhttps://telegram.me/crazych\' 
+  
 end
 
 return {
